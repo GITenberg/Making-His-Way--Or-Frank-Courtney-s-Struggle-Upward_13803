@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/168
     wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13803#Making-His-Way--Or-Frank-Courtney-s-Struggle-Upward
 gutenberg_bookshelf: Children's Fiction
 gutenberg_issued: '2004-10-20'
 gutenberg_type: Text
